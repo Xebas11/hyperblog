@@ -22,7 +22,7 @@ body{
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
-    
+
 }
 #container{
     width: 70%;
@@ -35,4 +35,8 @@ body{
 #container h1
 {
     font-size: 20px;
+}
+#post
+{
+    padding: 1em;
 }
